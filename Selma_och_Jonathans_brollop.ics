@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Selma & Jonathan//Wedding//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:selma-jonathan-brollop-20270727@wedding
+DTSTAMP:20260904T091800Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:Selma & Jonathans bröllop
+LOCATION:Västerås, Sverige
+DESCRIPTION:Vi ska gifta oss! Mer information kommer snart finnas på vår bröllopshemsida.
+END:VEVENT
+END:VCALENDAR
