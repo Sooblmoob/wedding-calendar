@@ -10,6 +10,7 @@ DTSTART;VALUE=DATE:20270727
 DTEND;VALUE=DATE:20270728
 SUMMARY:Selma & Jonathans bröllop
 LOCATION:Västerås, Sverige
-DESCRIPTION:Vi ska gifta oss! Mer information kommer snart finnas på vår bröllopshemsida.
+DESCRIPTION:Vi ska gifta oss! Mer information kommer snart finnas på vår bröllopshemsida:
+https://selma-och-jonathan.my.canva.site/
 END:VEVENT
 END:VCALENDAR
